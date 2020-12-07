@@ -18,7 +18,32 @@ Here are some ideas to get you started:
 "கற்றது கையளவு கல்லாதது உலகளவு" ->  “The more you know, the more you realize you don't know”
 - 🔭 Data Scientist mostly dealing with NLP & CV use cases
 
-<b> This rep is regularly updated</b>
+<b> These links are updated regularly</b>
 #### NLP
+
 ##### NLP With DL
-1. 
+
+###### 1. PyTorch - Multiclass classification 
+<b> Has the code for the following : <b>
+i) How to use TabularDataset with TorchText!
+ii) How to use Simple RNN with Custom Embedding
+iii) Dataloader techniques for feeding sorted data to the Simple RNN
+<b> tags : PyTorch, TorchText, TabularDataset, DataLoader, Simple RNN and Trainable Embedding </b>
+
+###### 2. PyTorch - Multiclass classification Without TorchText
+<b> Has the code for the following : <b>
+  i) How to solve NLP problems without TorchText (torchtext custom embeddings shortcomings)
+  ii) How do you pass variable length data to DataLoader
+  iii) How to load custom embeddings to Embedding layer
+  iv) How to use PackedSequence and collate_fn of DataLoader
+  v) How to pass packed-sequence to embedding layer!!!!!
+  <b> tags : PyTorch, Bi-LSTM, TabularDataset, DataLoader, PackedSequence and BPEmb embeddings </b>
+
+###### 3. PyTorch - Sarcasm Detection With CNN Architecture
+<b> Has the code for the following : <b>
+  i) How to solve NLP problems without CNN architectures
+  ii) Handling variable length sequences with <pad> tokens
+  iii) How to load custom embeddings to Embedding layer
+  <b> tags : PyTorch, CNN, Binary Classification, DataLoader, Text With CNN and BPEmb embeddings </b>
+
+
