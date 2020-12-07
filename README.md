@@ -52,7 +52,7 @@ iii) Dataloader techniques for feeding sorted data to the Simple RNN<br/>
 
 ## CV With DL
 
-### 1. PyTorch - Multi-class Weather Dataset for Image Classification
+### <a href = 'https://github.com/sanjeevr5/CV/blob/main/Torch_CV_Series_1.ipynb'> 1. PyTorch - Multi-class Weather Dataset for Image Classification </a>
 
 #### Has the code for the following : 
 i) How to use Torchvision for handling image datasets<br/>
