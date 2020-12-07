@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science On AWS
 - 💬 "கற்றது கையளவு கல்லாதது உலகளவு" ->  “The more you know, the more you realize you don't know”
 - ⚽️ Die hard fan of Arsenal FC 🔴⚪️
-- Flag: India on Facebook 4.0
 
 <b> These links are updated regularly</b>
 ### NLP
