@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 "கற்றது கையளவு கல்லாதது உலகளவு" ->  “The more you know, the more you realize you don't know”
-- 🔭 Data Scientist mostly dealing with NLP & CV use cases
+🔭 Data Scientist mostly dealing with NLP & CV use cases
 
 <b> These links are updated regularly</b>
 #### NLP
@@ -24,26 +24,29 @@ Here are some ideas to get you started:
 ##### NLP With DL
 
 ###### 1. PyTorch - Multiclass classification 
-<b> Has the code for the following : <b>
-i) How to use TabularDataset with TorchText!
-ii) How to use Simple RNN with Custom Embedding
-iii) Dataloader techniques for feeding sorted data to the Simple RNN
+
+<b> Has the code for the following : </b>
+i) How to use TabularDataset with TorchText!<br/>
+ii) How to use Simple RNN with Custom Embedding<br/>
+iii) Dataloader techniques for feeding sorted data to the Simple RNN<br/>
 <b> tags : PyTorch, TorchText, TabularDataset, DataLoader, Simple RNN and Trainable Embedding </b>
 
 ###### 2. PyTorch - Multiclass classification Without TorchText
-<b> Has the code for the following : <b>
-  i) How to solve NLP problems without TorchText (torchtext custom embeddings shortcomings)
-  ii) How do you pass variable length data to DataLoader
-  iii) How to load custom embeddings to Embedding layer
-  iv) How to use PackedSequence and collate_fn of DataLoader
-  v) How to pass packed-sequence to embedding layer!!!!!
+
+<b> Has the code for the following : </b>
+  i) How to solve NLP problems without TorchText (torchtext custom embeddings shortcomings)<br/>
+  ii) How do you pass variable length data to DataLoader<br/>
+  iii) How to load custom embeddings to Embedding layer<br/>
+  iv) How to use PackedSequence and collate_fn of DataLoader<br/>
+  v) How to pass packed-sequence to embedding layer!!!!!<br/>
   <b> tags : PyTorch, Bi-LSTM, TabularDataset, DataLoader, PackedSequence and BPEmb embeddings </b>
 
 ###### 3. PyTorch - Sarcasm Detection With CNN Architecture
-<b> Has the code for the following : <b>
-  i) How to solve NLP problems without CNN architectures
-  ii) Handling variable length sequences with <pad> tokens
-  iii) How to load custom embeddings to Embedding layer
+
+<b> Has the code for the following : </b>
+  i) How to solve NLP problems without CNN architectures<br/>
+  ii) Handling variable length sequences with <pad> tokens<br/>
+  iii) How to load custom embeddings to Embedding layer<br/>
   <b> tags : PyTorch, CNN, Binary Classification, DataLoader, Text With CNN and BPEmb embeddings </b>
 
 
