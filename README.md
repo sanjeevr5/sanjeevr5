@@ -43,7 +43,7 @@ iii) Dataloader techniques for feeding sorted data to the Simple RNN<br/>
   v) How to pass packed-sequence to embedding layer!!!!!<br/>
   ##### Tags : PyTorch, Bi-LSTM, TabularDataset, DataLoader, PackedSequence and BPEmb embeddings
 
-### 3. PyTorch - Sarcasm Detection With CNN Architecture
+### <a href = 'Learning_Torch/CNN_For_Text.ipynb'> 3. PyTorch - Sarcasm Detection With CNN Architecture</a>
 
 #### Has the code for the following :
   i) How to solve NLP problems without CNN architectures<br/>
