@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## NLP With DL
 
-### 1. PyTorch - Multiclass classification 
+### <a href = 'https://github.com/sanjeevr5/NLP/blob/main/Learning_Torch/Torch_NLP_SERIES_1.ipynb'> 1. PyTorch - Multiclass classification</a>
 
 #### Has the code for the following : 
 i) How to use TabularDataset with TorchText!<br/>
@@ -33,8 +33,7 @@ ii) How to use Simple RNN with Custom Embedding<br/>
 iii) Dataloader techniques for feeding sorted data to the Simple RNN<br/>
 ##### Tags : PyTorch, TorchText, TabularDataset, DataLoader, Simple RNN and Trainable Embedding
 
-### 2. PyTorch - Multiclass classification Without TorchText
-
+### <a href = 'https://github.com/sanjeevr5/NLP/blob/main/Learning_Torch/Torch_NLP_SERIES_2.ipynb'> 2. PyTorch - Multiclass classification Without TorchText</a>
 #### Has the code for the following : 
   i) How to solve NLP problems without TorchText (torchtext custom embeddings shortcomings)<br/>
   ii) How do you pass variable length data to DataLoader<br/>
@@ -43,7 +42,7 @@ iii) Dataloader techniques for feeding sorted data to the Simple RNN<br/>
   v) How to pass packed-sequence to embedding layer!!!!!<br/>
   ##### Tags : PyTorch, Bi-LSTM, TabularDataset, DataLoader, PackedSequence and BPEmb embeddings
 
-### <a href = 'Learning_Torch/CNN_For_Text.ipynb'> 3. PyTorch - Sarcasm Detection With CNN Architecture</a>
+### <a href = 'https://github.com/sanjeevr5/NLP/blob/main/Learning_Torch/CNN_For_Text.ipynb'> 3. PyTorch - Sarcasm Detection With CNN Architecture</a>
 
 #### Has the code for the following :
   i) How to solve NLP problems without CNN architectures<br/>
