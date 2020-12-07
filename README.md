@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
 - 🔭 Data Scientist mostly dealing with NLP & CV use cases
 - 🌱 I’m currently learning Data Science On AWS
-- 💬 "கற்றது கையளவு கல்லாதது உலகளவு" ->  “The more you know, the more you realize you don't know”
+- 💬 "கற்றது கையளவு கல்லாதது உலகளவு"
 - ⚽️ Die hard fan of Arsenal FC 🔴⚪️
 
-<b> These links are updated regularly</b>
+<b> These links are updated regularly - {This is not intended to get best results but to explore different options available}</b>
+
 ### NLP
 
 #### NLP With DL
@@ -52,4 +53,11 @@ iii) Dataloader techniques for feeding sorted data to the Simple RNN<br/>
   iii) How to load custom embeddings to Embedding layer<br/>
   <b> Tags : PyTorch, CNN, Binary Classification, DataLoader, Text With CNN and BPEmb embeddings </b>
 
+### CV With DL
 
+##### 1. PyTorch - Multi-class Weather Dataset for Image Classification
+
+<b> Has the code for the following : </b>
+i) How to use Torchvision for handling image datasets<br/>
+ii) How to use make_grid, ImageFolder, DataLoader, Vision_Transforms<br/>
+<b> Tags : PyTorch, TorchVision, DataLoader, Custom CNN and Multiclass </b>
