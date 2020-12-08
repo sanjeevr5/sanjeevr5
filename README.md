@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 🔭 Data Scientist mostly dealing with NLP & CV use cases
 - 🌱 I’m currently learning Data Science On AWS
-- 💬 "கற்றது கையளவு கல்லாதது உலகளவு"
 - ⚽️ Die hard fan of Arsenal FC 🔴⚪️
 
 <b> These links are updated regularly - {This is not intended to get best results but to explore different options available}</b>
