@@ -6,7 +6,6 @@ My 💪 work can be seen here:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at TCS
 - 🌱 I’m currently learning Data Science On AWS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 Data Scientist mostly dealing with NLP & CV use cases
 - 🌱 I’m currently learning Data Science On AWS
-- ⚽️ Die hard fan of Arsenal FC 🔴⚪️
+- ⚽️ Football Tactical Analyst/ Applying ML to football 🔴⚪️
 
 <b> These links are updated regularly - {This is not intended to get best results but to explore different options available}</b>
 
@@ -57,3 +56,12 @@ iii) Dataloader techniques for feeding sorted data to the Simple RNN<br/>
 i) How to use Torchvision for handling image datasets<br/>
 ii) How to use make_grid, ImageFolder, DataLoader, Vision_Transforms<br/>
 ##### Tags : PyTorch, TorchVision, DataLoader, Custom CNN and Multiclass 
+
+## Machine Learning NBs
+i) Notebooks representing my journey in learning ML. 
+**Data : Amazon food reviews dataset**
+
+## Football
+
+### <a href = 'https://github.com/sanjeevr5/NLP/blob/main/Learning_Torch/Torch_NLP_SERIES_1.ipynb'>Olivier Giroud Fifa WC'18 Analysis</a>
+#### Analyzing the impact of Olivier Giroud in France's FIFA World Cup winning campaign 
