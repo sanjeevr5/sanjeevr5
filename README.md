@@ -65,4 +65,6 @@ i) <a href = 'https://github.com/sanjeevr5/Learning_Assignments'> Notebooks</a> 
 ## Football
 
 ### <a href = 'https://colab.research.google.com/drive/1qLRlN8P1b883tqAM_NTb_6ZGwkXRqVVs?usp=sharing'>Olivier Giroud Fifa WC'18 Analysis</a>
-#### Analyzing the impact of Olivier Giroud in France's FIFA World Cup winning campaign 
+#### Analyzing the impact of Olivier Giroud in France's FIFA World Cup winning campaign (Rendering is slow because of the size of the file)
+### <a href = 'https://github.com/sanjeevr5/Prem_League_Dashboard/blob/master/Scraping_Premier_League_Data.ipynb'> Scraping data from Premier League Website </a>
+- Scraping data from Premier League's website using API and Selenium in Python
