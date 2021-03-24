@@ -58,10 +58,11 @@ ii) How to use make_grid, ImageFolder, DataLoader, Vision_Transforms<br/>
 ##### Tags : PyTorch, TorchVision, DataLoader, Custom CNN and Multiclass 
 
 ## Machine Learning NBs
-i) Notebooks representing my journey in learning ML. 
+
+i) <a href = 'https://github.com/sanjeevr5/Learning_Assignments'> Notebooks</a> representing my journey in learning ML. 
 **Data : Amazon food reviews dataset**
 
 ## Football
 
-### <a href = 'https://github.com/sanjeevr5/NLP/blob/main/Learning_Torch/Torch_NLP_SERIES_1.ipynb'>Olivier Giroud Fifa WC'18 Analysis</a>
+### <a href = 'https://colab.research.google.com/drive/1qLRlN8P1b883tqAM_NTb_6ZGwkXRqVVs?usp=sharing'>Olivier Giroud Fifa WC'18 Analysis</a>
 #### Analyzing the impact of Olivier Giroud in France's FIFA World Cup winning campaign 
