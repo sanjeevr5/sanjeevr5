@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Data Scientist mostly dealing with NLP & CV use cases
-- 🌱 I’m currently learning Data Science On AWS
+- 🌱 I’m currently learning MLOps On Azure
 - ⚽️ Football Tactical Analyst/ Applying ML to football 🔴⚪️
 
 <b> These links are updated regularly - {This is not intended to get best results but to explore different options available}</b>
