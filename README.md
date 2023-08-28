@@ -34,7 +34,7 @@ total experience of 7 years. Current areas of interest are semantic search, docu
   iv) mlopsv2 - AML with AML v2 [Practice notebooks]
 
 
-## <a href = 'https://github.com/sanjeevr5/NLP> Torch NLP Nbs[OLD]</a>
+## <a href = 'https://github.com/sanjeevr5/NLP'> Torch NLP Nbs[OLD]</a>
 ## Machine Learning NBs
 i) <a href = 'https://github.com/sanjeevr5/Learning_Assignments'> Notebooks</a> representing my journey in learning ML. 
 **Data : Amazon food reviews dataset**
