@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- A 5.8 year experienced data scientist focusing on solving mostly NLP, CV and building operational pipelines on azure cloud platform and with a
-total experience of 7 years. Current areas of interest are semantic search, document understanding and MLOps.
+- A 6.8 year experienced data scientist focusing on solving mostly NLP, CV and building operational pipelines on azure cloud platform and with a
+total experience of 7.8 years. Current areas of interest are semantic search, document understanding and MLOps.
 - ⚽️ Football Tactical Analyst/ Applying ML to football 🔴⚪️
 
 ## <a href = 'https://github.com/sanjeevr5/Azure-Machine-Learning'>Azure MLOps </a>
